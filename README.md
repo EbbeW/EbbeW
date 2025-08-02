@@ -22,9 +22,9 @@
 ## 💻 Languages
 
 ![java](https://img.shields.io/badge/java-0B1120?style=for-the-badge&logo=openjdk&logoColor=white)
-![python](https://img.shields.io/badge/python-0C1735?style=for-the-badge&logo=python&logoColor=white)
-![c++](https://img.shields.io/badge/c++-0F2165?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![c](https://img.shields.io/badge/c-132A8E?style=for-the-badge&logo=c&logoColor=white)
+![python](https://img.shields.io/badge/python-0C1735?style=flat&logo=python&logoColor=white)
+![c++](https://img.shields.io/badge/c++-0F2165?style=flat-square&logo=c%2B%2B&logoColor=white)
+![c](https://img.shields.io/badge/c-132A8E?style=plastic&logo=c&logoColor=white)
 ![c#](https://img.shields.io/badge/c%23-1C3CA8?style=for-the-badge&logo=csharp&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-1E40AF?style=for-the-badge&logo=javascript&logoColor=white)
 ![html5](https://img.shields.io/badge/html5-1D4ED8?style=for-the-badge&logo=html5&logoColor=white)
