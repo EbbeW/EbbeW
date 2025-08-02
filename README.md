@@ -21,63 +21,68 @@
 
 ## 💻 Languages
 
-![java](https://img.shields.io/badge/java-0B1120?style=for-the-badge&logo=openjdk&logoColor=white)
-![python](https://img.shields.io/badge/python-0C1735?style=flat&logo=python&logoColor=white)
-![c++](https://img.shields.io/badge/c++-0F2165?style=flat-square&logo=c%2B%2B&logoColor=white)
-![c](https://img.shields.io/badge/c-132A8E?style=plastic&logo=c&logoColor=white)
-![c#](https://img.shields.io/badge/c%23-1C3CA8?style=for-the-badge&logo=csharp&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-1E40AF?style=for-the-badge&logo=javascript&logoColor=white)
-![html5](https://img.shields.io/badge/html5-1D4ED8?style=for-the-badge&logo=html5&logoColor=white)
-![css3](https://img.shields.io/badge/css3-2563EB?style=for-the-badge&logo=css3&logoColor=white)
-![php](https://img.shields.io/badge/php-3B82F6?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0B1120?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-132043?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1C2D5A?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-22386F?style=flat&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-26407F?style=flat&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2A4990?style=flat&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-2D519F?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-3059AD?style=flat&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-3361BA?style=flat&logo=php&logoColor=white)
+
 
 ---
 
 ## 🧰 Frameworks & Libraries
 
-![javafx](https://img.shields.io/badge/javafx-052E16?style=for-the-badge&logo=java&logoColor=white)
-![spring](https://img.shields.io/badge/spring-064E3B?style=for-the-badge&logo=spring&logoColor=white)
-![laravel](https://img.shields.io/badge/laravel-065F46?style=for-the-badge&logo=laravel&logoColor=white)
-![react](https://img.shields.io/badge/react-047857?style=for-the-badge&logo=react&logoColor=white)
-![next.js](https://img.shields.io/badge/next.js-0F766E?style=for-the-badge&logo=next.js&logoColor=white)
-![svelte](https://img.shields.io/badge/svelte-115E59?style=for-the-badge&logo=svelte&logoColor=white)
-![electron](https://img.shields.io/badge/electron-134E4A?style=for-the-badge&logo=electron&logoColor=white)
-![flask](https://img.shields.io/badge/flask-14532D?style=for-the-badge&logo=flask&logoColor=white)
-![express.js](https://img.shields.io/badge/express.js-166534?style=for-the-badge&logo=express&logoColor=white)
-![.net](https://img.shields.io/badge/.net-15803D?style=for-the-badge&logo=dotnet&logoColor=white)
-![qt](https://img.shields.io/badge/qt-16A34A?style=for-the-badge&logo=qt&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-0F1F1A?style=flat&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-10322B?style=flat&logo=spring&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-124035?style=flat&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-155043?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-175E4D?style=flat&logo=next.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-186A57?style=flat&logo=svelte&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-197662?style=flat&logo=electron&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-1B8370?style=flat&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-1D907B?style=flat&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-1F9C86?style=flat&logo=dotnet&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-22A892?style=flat&logo=qt&logoColor=white)
+
 
 ---
 
 ## ⚙️ Tools & Platforms
 
-![git](https://img.shields.io/badge/git-052E16?style=for-the-badge&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/github-064E3B?style=for-the-badge&logo=github&logoColor=white)
-![docker](https://img.shields.io/badge/docker-065F46?style=for-the-badge&logo=docker&logoColor=white)
-![cmake](https://img.shields.io/badge/cmake-047857?style=for-the-badge&logo=cmake&logoColor=white)
-![gradle](https://img.shields.io/badge/gradle-0F766E?style=for-the-badge&logo=gradle&logoColor=white)
-![npm](https://img.shields.io/badge/npm-115E59?style=for-the-badge&logo=npm&logoColor=white)
-![vite](https://img.shields.io/badge/vite-134E4A?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0F2015?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-10311E?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-13422C?style=flat&logo=docker&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-17543B?style=flat&logo=cmake&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-1C654A?style=flat&logo=gradle&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-21765B?style=flat&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-27876D?style=flat&logo=vite&logoColor=white)
+
 
 ---
 
 ## 🗃️ Databases
 
-![mysql](https://img.shields.io/badge/mysql-052E16?style=for-the-badge&logo=mysql&logoColor=white)
-![mariadb](https://img.shields.io/badge/mariadb-064E3B?style=for-the-badge&logo=mariadb&logoColor=white)
-![postgres](https://img.shields.io/badge/postgres-065F46?style=for-the-badge&logo=postgresql&logoColor=white)
-![mongodb](https://img.shields.io/badge/mongodb-047857?style=for-the-badge&logo=mongodb&logoColor=white)
-![sqlite](https://img.shields.io/badge/sqlite-0F766E?style=for-the-badge&logo=sqlite&logoColor=white)
-![supabase](https://img.shields.io/badge/supabase-115E59?style=for-the-badge&logo=supabase&logoColor=white)
-![hibernate](https://img.shields.io/badge/hibernate-134E4A?style=for-the-badge&logo=hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0C1F1C?style=flat&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-12362F?style=flat&logo=mariadb&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-174D43?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1C6456?style=flat&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-22836D?style=flat&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-28937E?style=flat&logo=supabase&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-2EA38F?style=flat&logo=hibernate&logoColor=white)
+
 
 ---
 
 ## 🌐 Get in Touch
 
-[![discord](https://img.shields.io/badge/discord-0F172A?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ebbe4356)
-[![facebook](https://img.shields.io/badge/facebook-1E293B?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ebbe.wertz)
-[![instagram](https://img.shields.io/badge/instagram-334155?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ebbe_w8/)
-[![linkedin](https://img.shields.io/badge/linkedin-475569?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebbe-wertz-a882b8235/)
-[![stack overflow](https://img.shields.io/badge/stack%20overflow-64748B?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/25193993/ebbe-wertz)
-[![dev.to](https://img.shields.io/badge/dev.to-94A3B8?style=for-the-badge&logo=dev.to&logoColor=black)](https://dev.to/ebbewertz)
+[![Discord](https://img.shields.io/badge/Discord-1B1F29?style=flat&logo=discord&logoColor=white)](https://discord.com/users/ebbe4356)
+[![Facebook](https://img.shields.io/badge/Facebook-232B3B?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ebbe.wertz)
+[![Instagram](https://img.shields.io/badge/Instagram-2C374B?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ebbe_w8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-36475A?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebbe-wertz-a882b8235/)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-42556B?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/25193993/ebbe-wertz)
+[![Dev.to](https://img.shields.io/badge/Dev.to-51667F?style=flat&logo=dev.to&logoColor=black)](https://dev.to/ebbewertz)
+
