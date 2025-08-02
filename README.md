@@ -19,7 +19,7 @@
 
 ---
 
-## 💻 Languages
+## 💻 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-0B1120?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-132043?style=flat&logo=python&logoColor=white)
@@ -31,10 +31,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-3059AD?style=flat&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-3361BA?style=flat&logo=php&logoColor=white)
 
-
----
-
-## 🧰 Frameworks & Libraries
 
 ![JavaFX](https://img.shields.io/badge/JavaFX-0F1F1A?style=flat&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-10322B?style=flat&logo=spring&logoColor=white)
@@ -49,10 +45,6 @@
 ![Qt](https://img.shields.io/badge/Qt-22A892?style=flat&logo=qt&logoColor=white)
 
 
----
-
-## ⚙️ Tools & Platforms
-
 ![Git](https://img.shields.io/badge/Git-0F2015?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-10311E?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-13422C?style=flat&logo=docker&logoColor=white)
@@ -61,10 +53,6 @@
 ![NPM](https://img.shields.io/badge/NPM-21765B?style=flat&logo=npm&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-27876D?style=flat&logo=vite&logoColor=white)
 
-
----
-
-## 🗃️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-0C1F1C?style=flat&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-12362F?style=flat&logo=mariadb&logoColor=white)
