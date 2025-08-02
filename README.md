@@ -18,55 +18,59 @@
 ## 💻 Tech Stack
 
 ### Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=flat&logo=yaml&logoColor=151515)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/Java-1E3A8A?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1D4ED8?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-2563EB?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-3B82F6?style=flat&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-38BDF8?style=flat&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-22D3EE?style=flat&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-06B6D4?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0EA5E9?style=flat&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-0284C7?style=flat&logo=php&logoColor=white)
+
 
 ### Frameworks & Libraries
-![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat&logo=javafx&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=flat&logo=svelte&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-0F766E?style=flat&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-115E59?style=flat&logo=spring&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-047857?style=flat&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-059669?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-10B981?style=flat&logo=next.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-34D399?style=flat&logo=svelte&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-5EEAD4?style=flat&logo=electron&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-99F6E4?style=flat&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-CCFBF1?style=flat&logo=express&logoColor=black)
+![.NET](https://img.shields.io/badge/.NET-A5F3FC?style=flat&logo=dotnet&logoColor=black)
+![Qt](https://img.shields.io/badge/Qt-BAE6FD?style=flat&logo=qt&logoColor=black)
+
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-14532D?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-166534?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-15803D?style=flat&logo=docker&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-16A34A?style=flat&logo=cmake&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-22C55E?style=flat&logo=gradle&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-4ADE80?style=flat&logo=npm&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-86EFAC?style=flat&logo=vite&logoColor=black)
+
 
 ### Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-14532D?style=flat&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-166534?style=flat&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-15803D?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-16A34A?style=flat&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-22C55E?style=flat&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-4ADE80?style=flat&logo=supabase&logoColor=black)
+![Hibernate](https://img.shields.io/badge/Hibernate-86EFAC?style=flat&logo=hibernate&logoColor=black)
+
 
 ---
 
 ## 🤝 Get in Touch
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/ebbe4356)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ebbe.wertz)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ebbe_w8/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebbe-wertz-a882b8235/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25193993/ebbe-wertz)
-[![Dev.to blog](https://img.shields.io/badge/-dev.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/ebbewertz)
+[![Discord](https://img.shields.io/badge/Discord-0F172A?style=flat&logo=discord&logoColor=white)](https://discord.com/users/ebbe4356)
+[![Facebook](https://img.shields.io/badge/Facebook-1E293B?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ebbe.wertz)
+[![Instagram](https://img.shields.io/badge/Instagram-334155?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ebbe_w8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-475569?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebbe-wertz-a882b8235/)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-64748B?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/25193993/ebbe-wertz)
+[![Dev.to](https://img.shields.io/badge/Dev.to-94A3B8?style=flat&logo=dev.to&logoColor=black)](https://dev.to/ebbewertz)
+
